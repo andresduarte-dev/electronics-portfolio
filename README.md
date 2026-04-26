@@ -9,7 +9,16 @@ Electronics Engineer based in Costa Rica, focused on hardware development, PCB d
 - Tools: multimeter, soldering, bench testing
 
 ## Projects
-*(Coming soon — first project in progress)*
+
+### 01 — 5V Regulated Power Supply
+Linear voltage regulator using LM7805. Full-wave bridge rectifier, filter capacitors, and power indicator LED.
+
+- **Input:** 9–12V AC
+- **Output:** 5V DC, 1A
+- **Key components:** LM7805, 1N4007 x4, 1000µF, 10µF, 100nF
+- **Tools:** KiCad 9
+
+![Schematic](Esquema.svg)
 
 ## Contact
 - GitHub: [andresduarte-dev](https://github.com/andresduarte-dev)
