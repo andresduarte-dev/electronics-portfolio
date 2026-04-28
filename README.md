@@ -29,6 +29,7 @@ PWM-based LED dimmer controlled by a potentiometer using Arduino UNO.
 - **Tools:** KiCad 9, Arduino IDE
 
 ![Schematic](led-pwm-control.svg)
+[▶ Watch demo video](demo-led-pwm.mp4)
 
 ## Contact
 - GitHub: [andresduarte-dev](https://github.com/andresduarte-dev)
