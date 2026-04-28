@@ -18,7 +18,7 @@ Linear voltage regulator using LM7805. Full-wave bridge rectifier, filter capaci
 - **Key components:** LM7805, 1N4007 x4, 1000µF, 10µF, 100nF
 - **Tools:** KiCad 9
 
-![Schematic](Esquema.svg)
+![Schematic](schematic-power-supply.svg)
 
 ### 02 — LED PWM Brightness Control
 PWM-based LED dimmer controlled by a potentiometer using Arduino UNO.
@@ -28,7 +28,7 @@ PWM-based LED dimmer controlled by a potentiometer using Arduino UNO.
 - **Key components:** Arduino UNO, 1N4007, 220Ω, 10kΩ potentiometer
 - **Tools:** KiCad 9, Arduino IDE
 
-![Schematic](Esquema.svg)
+![Schematic](led-pwm-control.svg)
 
 ## Contact
 - GitHub: [andresduarte-dev](https://github.com/andresduarte-dev)
