@@ -2,8 +2,8 @@
 #include <WebServer.h> // Library to handle HTTP requests and serve web pages
 
 // 1. Network credentials and Static IP Configuration
-const char* ssid = "Soza .";           // Your WiFi Name (SSID)
-const char* password = "1227541069";   // Your WiFi Password
+const char* ssid = "Your_WiFi_name_here.";           // Your WiFi Name (SSID)
+const char* password = "Your_wifi_password_here";   // Your WiFi Password
 
 
 
