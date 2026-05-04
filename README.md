@@ -40,7 +40,7 @@ IoT proximity sensor with live web dashboard. Measures distance using HC-SR04 an
 - **Tools:** KiCad 9, Arduino IDE
 - **Features:** Color-coded display (green/red), auto-refresh, proportional audio alert
 
-![Schematic](schematic-proximity-monitor.svg)
+![Schematic](esp32-proximity-monitor.svg)
 [▶ Watch demo video](esp32-proximity-monitor.mp4)
 
 ## Contact
