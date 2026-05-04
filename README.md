@@ -11,7 +11,6 @@ I design circuits, build PCB schematics, and prototype real hardware from scratc
 - **Circuit Design & Analysis** — power supplies, sensor interfaces, microcontroller systems
 - **Firmware Development** — Arduino / ESP32 embedded code
 - **Prototyping & Testing** — bench validation, multimeter diagnostics, soldering
-- **3D Enclosure Modeling** — FreeCAD for custom project housings
 
 ---
 
@@ -20,7 +19,6 @@ I design circuits, build PCB schematics, and prototype real hardware from scratc
 | Area | Tools & Technologies |
 |------|----------------------|
 | PCB Design | KiCad 9 |
-| 3D Modeling | FreeCAD |
 | Microcontrollers | Arduino UNO, ESP32 |
 | Firmware | Arduino IDE, C/C++ |
 | Test & Validation | Multimeter, bench testing, soldering |
