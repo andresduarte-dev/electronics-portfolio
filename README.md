@@ -31,6 +31,18 @@ PWM-based LED dimmer controlled by a potentiometer using Arduino UNO.
 ![Schematic](led-pwm-control.svg)
 [▶ Watch demo video](demo-led-pwm.mp4)
 
+### 03 — ESP32 Real-Time Proximity Monitor
+IoT proximity sensor with live web dashboard. Measures distance using HC-SR04 and serves real-time data via WiFi. Includes audio alert system with proportional beeping.
+
+- **Input:** HC-SR04 Ultrasonic Sensor
+- **Output:** Live web dashboard + Buzzer alert
+- **Key components:** ESP32, HC-SR04, Active Buzzer
+- **Tools:** KiCad 9, Arduino IDE
+- **Features:** Color-coded display (green/red), auto-refresh, proportional audio alert
+
+![Schematic](schematic-proximity-monitor.svg)
+[▶ Watch demo video](esp32-proximity-monitor.mp4)
+
 ## Contact
 - GitHub: [andresduarte-dev](https://github.com/andresduarte-dev)
 - Location: Costa Rica
