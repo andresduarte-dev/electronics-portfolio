@@ -33,6 +33,7 @@ I design circuits, build PCB schematics, and prototype real hardware from scratc
 | 01 | 5V Regulated Power Supply | Analog circuit + schematic | KiCad 9 |
 | 02 | LED PWM Brightness Control | Microcontroller + schematic | KiCad 9, Arduino IDE |
 | 03 | ESP32 Real-Time Proximity Monitor | IoT + web dashboard + schematic | KiCad 9, Arduino IDE |
+| 04 | ESP32 Proximity Monitor — Custom PCB | Full PCB layout + Gerbers | KiCad 9 |
 
 ---
 
@@ -77,6 +78,21 @@ IoT proximity sensor with live web dashboard. Measures distance using HC-SR04 an
 ![Schematic](esp32-proximity-monitor.svg)
 
 [▶ Watch demo video](esp32-proximity-monitor.mp4)
+
+---
+
+### 04 — ESP32 Proximity Monitor — Custom PCB
+
+Complete PCB design of the ESP32-based proximity monitor.
+Full layout ready for fabrication.
+
+- **Input:** HC-SR04 Ultrasonic Sensor
+- **Output:** Live web dashboard + Buzzer alert
+- **Key components:** ESP32-WROOM-32, HC-SR04, Active Buzzer
+- **Tools:** KiCad 9
+- **Deliverables:** PCB layout + Gerber files ready for fabrication
+
+[📁 View PCB files](04-esp32-pcb/)
 
 ---
 
